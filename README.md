@@ -1,0 +1,1 @@
+Esta é uma aplicação feita para desenvolver habilidades em Spring Security principalmente. No entanto, essa aplicação está sendo feita com Spring boot e Spring MVC com o Thymeleaf. Além disso, está sendo usado um banco de dados relacional o qual é o MySQL. É uma aplicação de uma Clínicia Hospitalar de um treinamento feito na Udemy.
